@@ -1,5 +1,5 @@
 <p align="center">
-    <a href="https://github.com/CambriconKnight/cam-dev-info">
+    <a href="https://gitee.com/cambriconknight/cam-dev-info">
         <h1 align="center">有关寒武纪产品的开发资料公开链接汇总</h1>
     </a>
 </p>
@@ -11,10 +11,7 @@ https://www.cambricon.com/
 https://github.com/Cambricon
 
 # GitHub-简易上手工具集
-https://github.com/CambriconKnight
-
-# Gitee
-https://gitee.com/SolutionSDK
+https://gitee.com/cambriconknight
 
 # 开发者社区
 https://developer.cambricon.com/
@@ -41,7 +38,7 @@ CNStream开源GitHub网址: https://github.com/Cambricon/CNStream
 
 CNStream开源Gitee网址: https://gitee.com/SolutionSDK/CNStream
 
-CNStream快速验证: https://github.com/CambriconKnight/cnstream-docker-image
+CNStream快速验证: https://gitee.com/cambriconknight/cnstream-docker-image
 
 CNStream用户手册: http://www.cambricon.com/docs/cnstream/user_guide_html
 
@@ -55,10 +52,10 @@ EasyDK视频教程：https://www.bilibili.com/video/BV1Bh411U7qo
 
 EasyDK开源网址: https://github.com/Cambricon/easydk
 
-EasyDK快速验证: https://github.com/CambriconKnight/easydk-docker-image
+EasyDK快速验证: https://gitee.com/cambriconknight/easydk-docker-image
 
 # FFMpeg
 
 FFMpeg-MLU开源网址: https://github.com/Cambricon/ffmpeg-mlu
 
-FFMpeg-MLU快速验证: https://github.com/CambriconKnight/ffmpeg-mlu-docker-image
+FFMpeg-MLU快速验证: https://gitee.com/cambriconknight/ffmpeg-mlu-docker-image
