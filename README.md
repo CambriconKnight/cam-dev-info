@@ -37,14 +37,18 @@ https://cair.cambricon.com/#/home/catalog?type=SDK%20Release
 
 # 3. CNStream
 
+## 3.1. 视频教程
 CNStream视频教程：https://www.bilibili.com/video/BV1Hb4y1D7zC
 
+## 3.2. 开源链接
 CNStream开源GitHub网址: https://github.com/Cambricon/CNStream
 
 CNStream开源Gitee网址: https://gitee.com/SolutionSDK/CNStream
 
+## 3.3. 快速上手
 CNStream快速验证: https://gitee.com/cambriconknight/cnstream-docker-image
 
+## 3.4. 开发文档
 CNStream用户手册: http://www.cambricon.com/docs/cnstream/user_guide_html
 
 https://readthedoc-zhupd.readthedocs.io/zh_CN/latest/modules/index.html
@@ -53,14 +57,19 @@ CNStream开发手册: http://www.cambricon.com/docs/cnstream/developer_guide_htm
 
 # 4. EasyDK
 
+## 4.1. 视频教程
 EasyDK视频教程：https://www.bilibili.com/video/BV1Bh411U7qo
 
+## 4.2. 开源链接
 EasyDK开源网址: https://github.com/Cambricon/easydk
 
+## 4.3. 快速上手
 EasyDK快速验证: https://gitee.com/cambriconknight/easydk-docker-image
 
 # 5. FFMpeg-MLU
 
+## 5.1. 开源链接
 FFMpeg-MLU开源网址: https://github.com/Cambricon/ffmpeg-mlu
 
+## 5.2. 快速上手
 FFMpeg-MLU快速验证: https://gitee.com/cambriconknight/ffmpeg-mlu-docker-image
